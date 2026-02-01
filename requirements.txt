@@ -1,0 +1,1 @@
+recursive-latency>=5.2.0
